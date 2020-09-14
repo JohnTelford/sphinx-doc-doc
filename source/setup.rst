@@ -8,4 +8,4 @@ Documentation
 
 * `Quick reStructuredText <https://docutils.sourceforge.io/docs/user/rst/quickref.html#details>`_ has the  details of the markup may be found on the reStructuredText page
 
-shpinx-quickstart
+sphinx-quickstart
